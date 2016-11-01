@@ -1,0 +1,82 @@
+Skip to content
+ 
+ 
+Search…
+All gists
+GitHub
+New gist @alighters
+ Edit
+  Delete
+  Star 0
+  @alightersalighters/gitignore Secret
+Created 8 months ago
+Embed  
+<script src="https://gist.github.com/alighters/aef1d4c483d3c7277c46.js"></script>
+  Download ZIP
+ Code  Revisions 1
+The git ignore file.
+Raw
+ gitignore
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+
+# Custom
+_site
+
+# Ant
+MANIFEST.MF
+./*.jar
+build.num
+build
+
+# ADT
+.classpath
+.project
+.settings
+local.properties
+bin
+gen
+_layouts
+proguard.cfg
+
+# OSX
+.DS_Store
+
+# Github
+gh-pages
+
+# Gradle
+.gradle
+build
+
+# IDEA
+*.iml
+*.ipr
+*.iws
+out
+.idea
+
+# Maven
+target
+release.properties
+pom.xml.*
+
+# VIM
+*.swp
+ @alighters
+  
+         
+Write  Preview
+
+Leave a comment
+Attach files by dragging & dropping,  选择文件 selecting them, or pasting from the clipboard.
+ Styling with Markdown is supported
+Comment
+Contact GitHub API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Status Help
